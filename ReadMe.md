@@ -1,0 +1,1 @@
+This is the ReadMe generator app. This app was built to save time and automate the process of creating a ReadMe.md file by using a template and filling it through questions asked in the Terminal. The main technology used is Node.js to run through the questions and start the app once you enter "node script".
